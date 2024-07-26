@@ -68,10 +68,10 @@ public class TesteVelocidadeLists {
 
 ## Exemplo Saida
 
-ArrayList - Insert Final : 12345678
-ArrayList - Acesso de Indice : 123456
-LinkedList - Insert Final : 87654321
-LinkedList - Acesso de Indice : 654321
+- ArrayList - Insert Final : 12345678
+- ArrayList - Acesso de Indice : 123456
+- LinkedList - Insert Final : 87654321
+- LinkedList - Acesso de Indice : 654321
 
 ## Conclusão
 
